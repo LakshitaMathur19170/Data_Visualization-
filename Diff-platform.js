@@ -49,7 +49,7 @@ jQuery(async function createPie(){
                 if(socialMedia.localeCompare("Netflix")==0){
                     window.scrollTo(950,260);
                 }else if(socialMedia.localeCompare("YouTube")==0){
-                    window.scrollTo(1000,260);
+                    window.scrollTo(1300,260);
                 }else if(socialMedia.localeCompare("Hulu")==0){
                     window.scrollTo(260,960);
                 }else if(socialMedia.localeCompare("Amazon Prime")==0){
