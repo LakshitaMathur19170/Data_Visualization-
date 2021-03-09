@@ -1,0 +1,168 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    background-color: var(--color-secondary);
+}
+.header{
+    background-color:var(--color-secondary);
+    background-position: center;
+    height:20rem;
+    background-image: url("header.png");
+    
+
+}
+.title{
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 300;
+    font-size: 3rem;
+    margin-top: 5%;
+    font-weight: 300;
+    color:var(--font-color);
+    font-variant-caps: all-petite-caps;
+}
+.theme{    
+    margin-top: 2%;
+    margin-left: 90%;
+    font-family:'Ubuntu', sans-serif;
+
+    color:var(--color-secondary);
+    background-color:var(--font-color);
+    border:var(--font-color);
+    font-size: 100%;
+}
+
+.Platform{
+    margin-left: 10%;
+    text-align: center;
+    width: 80%;
+    height: 30%;
+}
+.pie{
+    margin-top: 5%;
+    width: 30%;
+    height: 30%;
+}
+.Platform p{
+    font-family:'Ubuntu', sans-serif;
+    font-weight: 200;
+    margin-top: -15%;
+    text-align: left;
+    width: 60%;
+    margin-left: 40%;
+}
+.bar1{
+    text-align: center;
+    margin-top: 5rem;
+    width: 100%;
+    height: 30%;
+}
+.netflix{
+    margin-left: 50%;
+    margin-top: 1rem;
+    width: 30%;
+    height: 30%;
+
+}
+.bar1 p{
+    font-family:'Ubuntu', sans-serif;
+    font-weight: 200;
+    margin-top: -13%;
+    text-align: left;
+    width: 40%;
+    margin-left: 10%;
+    color: var(--font-color);
+}
+.bar4{
+    text-align: center;
+    margin-top: 5rem;
+    width: 100%;
+    height: 30%;
+}
+.bar4 p{
+    font-family:'Ubuntu', sans-serif;
+    font-weight: 200;
+    margin-top: -13%;
+    text-align: left;
+    width: 40%;
+    margin-left: 10%;
+}
+.disney{
+    margin-left: 50%;
+    margin-top: 5%;
+    width: 30%;
+    height: 30%;
+
+}
+.bar3{
+    text-align: center;
+    margin-top: 5rem;
+    width: 100%;
+    height: 30%;
+}
+.bar3 p{
+    font-family:'Ubuntu', sans-serif;
+    font-weight: 200;
+    margin-top: -13%;
+    text-align: left;
+    width: 40%;
+    margin-left: 10%;
+}
+.amazon{
+    margin-left: 50%;
+    margin-top: 5%;
+    width: 30%;
+    height: 30%;
+
+}
+.bar5{
+    text-align: center;
+    margin-top: 5rem;
+    width: 100%;
+    height: 30%;
+}
+.bar5 p{
+    font-family:'Ubuntu', sans-serif;
+    font-weight: 200;
+    margin-top: -13%;
+    text-align: left;
+    width: 40%;
+    margin-left: 10%;
+}
+.hulu{
+    margin-left: 50%;
+    margin-top: 5%;
+    width: 30%;
+    height: 30%;
+
+}
+.bar2{
+    text-align: center;
+    margin-top: 5rem;
+    width: 100%;
+    height: 30%;
+}
+.bar2 p{
+    font-family:'Ubuntu', sans-serif;
+    font-weight: 200;
+    margin-top: -13%;
+    text-align: left;
+    width: 40%;
+    margin-left: 10%;
+}
+.youtube{
+    margin-left: 50%;
+    margin-top: 5%;
+    width: 30%;
+    height: 30%;
+
+}
+
+.theme-light {
+    --color-secondary: #fbfbfe;
+    --font-color: #000000;
+  }
+  .theme-dark {
+    --color-secondary: #243133;
+    --font-color: #ffffff;
+  }
